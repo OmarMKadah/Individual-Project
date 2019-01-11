@@ -3,7 +3,22 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
+}
+.born {
+  border: 5px solid green;
+  padding: 10px;
+  margin: 12px;
+  background-color: white;
+}
 
+.border{
+  border: 5px solid green;
+  padding: 10px;
+  margin: 10px;
+  margin: 12px;
+  background-color: white;
+  width: 48%
+}
 .kadah {
   text-align: center;
   font-size: 80px;
@@ -19,6 +34,7 @@ body {
   font-size: 30;
   letter-spacing: 3px;
   word-spacing: 10px;
+  text-decoration-color: white;
 }
 
 .tabs{
