@@ -1,3 +1,14 @@
+body {
+  background-image: url("images/fall.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.kadah {
+  text-align: center;
+  font-size: 80px;
+  font-style: italic;
+}
 .omar{
   color:Black;
   font-style: italic;
