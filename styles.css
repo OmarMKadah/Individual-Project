@@ -1,0 +1,27 @@
+.omar{
+  color:Black;
+  font-style: italic;
+}
+
+.links{
+  text-align: center;
+  font-size: 30;
+  letter-spacing: 3px;
+  word-spacing: 10px;
+}
+
+.tabs{
+  word-spacing: 0px;
+}
+
+.body{
+  text-size 40px;
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
