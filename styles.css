@@ -21,15 +21,7 @@ img{
   background-color: #fff;
   margin: 0 auto;
 }
-.kadah {
-  text-align: center;
-  font-size: 80px;
-  font-style: italic;
-}
-.omar{
-  color:Black;
-  font-style: italic;
-}
+
 
 .links{
   text-align: center;
@@ -54,3 +46,9 @@ img{
   margin-right: auto;
   width: 50%;
 }
+
+.jumbotron {
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  background-color: #e9ecef;
+  border-radius: 0.3rem;
