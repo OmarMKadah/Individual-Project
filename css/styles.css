@@ -1,18 +1,29 @@
-body {
-  background-image: url("images/fall.jpg");
+.about {
+  background-image: url("../images/fall.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+img{
+  margin: 10px;
+  float: left;
 }
+
+em {
+  font-style: italic;
+}
+
+.seattle {
+  background-image: url("../images/seattle.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .born {
   border: 5px solid green;
   padding: 10px;
   margin: 12px;
   background-color: white;
-}
-img{
-  margin: 10px;
-  float: left;
 }
 
 .border{
