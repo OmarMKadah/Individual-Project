@@ -19,6 +19,11 @@ em {
   background-repeat: no-repeat;
 }
 
+.plant{
+  background-image: url("../images/plant.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 .born {
   border: 5px solid green;
   padding: 10px;

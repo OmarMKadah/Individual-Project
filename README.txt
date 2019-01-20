@@ -2,7 +2,12 @@ Author Name: Omar Kadah
 
 Omar Kadah’s World
 
+
 README!
+
+Link to Author’s Project:
+
+https://github.com/OmarMKadah/Individual-Project
 
 Download/clone the repository Individual-Project to your desktop. Open file index.html in your preferred web browser (author used Google Chrome).
 
